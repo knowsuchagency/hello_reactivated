@@ -3,3 +3,4 @@ reactivated
 django-stubs-ext
 whitenoise[brotli]
 gunicorn
+python-decouple
