@@ -42,8 +42,8 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "reactivated",
     "hello_reactivated.core",
+    "reactivated",
     
 ]
 
