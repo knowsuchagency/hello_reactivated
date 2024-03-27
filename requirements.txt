@@ -1,3 +1,5 @@
 django
 reactivated
 django-stubs-ext
+whitenoise[brotli]
+gunicorn
