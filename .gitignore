@@ -134,3 +134,4 @@ __pypackages__/
 *.sqlite3
 *.pyc
 staticfiles/
+.DS_Store

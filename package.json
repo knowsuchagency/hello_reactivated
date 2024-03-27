@@ -1,5 +1,6 @@
 {
   "dependencies": {
     "reactivated": "^0.39.2"
-  }
+  },
+  "name": "hello-reactivated"
 }
